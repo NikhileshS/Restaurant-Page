@@ -1,0 +1,18 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "This project was a BIG step up! I learnt about so many advanced concepts like Webpack &amp; ES6 Modules and applied them in this project!  On the front-end side, this project wasn't much. Part of the reason was because I'm running behind schedule. On the script side, I nailed all the topics I learnt. I used Webpack and ES6 Modules flawlessly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
